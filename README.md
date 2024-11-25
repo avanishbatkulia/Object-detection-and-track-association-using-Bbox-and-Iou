@@ -85,20 +85,4 @@ Both tracking methods (IoU and box center distance) demonstrated strong performa
 - Optimize for real-time processing
 - Enhance multi-object tracking in dense scenes
 
-## Requirements
-[To be added]
 
-## Installation
-[To be added]
-
-## Usage
-[To be added]
-
-## Contributing
-[To be added]
-
-## License
-[To be added]
-
-## Contact
-[To be added]
